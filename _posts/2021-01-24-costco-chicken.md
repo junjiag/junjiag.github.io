@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 浅谈Costco烤鸡的几十种吃法
-date: 2021-01-24 15:29:32
+image: 
 author: admin
 categories: [ Costco, 美国 ]
 description: "相信很多在美国的华人都知道，Costco闻名几十年的Rotisserie烤鸡了，价格一向都是$4.99+tax不变。一只3-4磅左右，甚至比其他超市卖的生鸡都要便宜。今天我就开开脑洞，看看如何最大化的利用好这只烤鸡～不仅仅可以一个人吃也可以全家一起吃！"
