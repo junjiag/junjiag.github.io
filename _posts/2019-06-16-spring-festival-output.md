@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 父母第一次来美国，是什么样的体验
+title: 父母第一次来美国，是什么样的体验2
 date: 2019-06-16 23:59:00
 author: admin
 categories: [ 随感, 美国, 父母 ]
