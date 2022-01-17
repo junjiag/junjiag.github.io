@@ -1,6 +1,8 @@
 ﻿---
+layout: post
 title: 初学Android Studio关于启动AVD虚拟机的问题小结（Ubuntu系统64位）
 date: 2016-12-22 23:43:23
+image: default_cover1.jpg
 tags:
 - Android
 - Ubuntu

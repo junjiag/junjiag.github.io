@@ -1,6 +1,8 @@
 ---
+layout: post
 title: 【转】Java多线程机制以及wait、notify、notifyall、synchronized等的使用
 date: 2017-03-27 00:57:51
+image: default_cover1.jpg
 tags:
 - Java
 - 多线程

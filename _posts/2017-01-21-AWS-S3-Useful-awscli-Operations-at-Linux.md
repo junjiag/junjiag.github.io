@@ -1,6 +1,8 @@
 ---
+layout: post
 title: AWS S3 Useful awscli Operations at Linux | 亚马逊AWS S3常用Linux awscli操作
 date: 2017-01-21 18:21:10
+image: default_cover1.jpg
 updated: 2017-01-21 19:40:35
 tags:
 - AWS

@@ -1,6 +1,8 @@
 ---
+layout: post
 title: 马里兰大学杨舒平毕业典礼演讲到底是怎么回事
 date: 2017-05-26 00:31:32
+image: default_cover1.jpg
 tags:
 - 中美思考
 

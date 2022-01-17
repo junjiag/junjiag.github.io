@@ -1,7 +1,8 @@
 ---
+layout: post
 title: 机场贵宾休息室点评（匹兹堡the club、多伦多premium plaza、北京首都BGS、纽约JFK机场Wingtips）
 date: 2020-04-16 22:19:30
-cover: https://raw.githubusercontent.com/gjj930923/photorepo/master/github_blog/images/20200416222518.jpg
+image: https://raw.githubusercontent.com/gjj930923/photorepo/master/github_blog/images/20200317232558.jpg
 tags: 
 - 信用卡
 - 机场贵宾室

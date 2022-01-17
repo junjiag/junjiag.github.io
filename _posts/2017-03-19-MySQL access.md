@@ -1,6 +1,8 @@
 ---
+layout: post
 title: 【转】设置本地MySQL允许外部访问的方法
 date: 2017-03-19 23:43:50
+image: default_cover1.jpg
 tags:
 - MySQL
 

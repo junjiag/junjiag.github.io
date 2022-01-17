@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 每一个人的眼中都不平凡的2020
 date: 2020-10-20 22:12:39
 image: https://raw.githubusercontent.com/gjj930923/photorepo/master/github_blog/images/20200517225235.jpg
