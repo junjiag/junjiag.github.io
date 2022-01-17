@@ -3,7 +3,7 @@ title: 父母第一次来美国，是什么样的体验
 date: 2019-06-16 23:59:00
 author: admin
 categories: [ 随感, 美国, 父母 ]
-image: IMG_20190203_095627.jpg
+image: spring-festival-output/IMG_20190203_095627.jpg
 description: "My review of Inception movie. Acting, plot and something else in this short description."
 ---
 

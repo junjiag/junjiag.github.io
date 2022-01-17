@@ -1,6 +1,7 @@
 ---
 date: 2021-04-10 18:44:09
 title: 2021年3月总结
+image: default_cover1.jpg
 tags:
   - 总结
 ---
