@@ -5,8 +5,9 @@ description: "不积跬步，无以至千里；不积小流，无以成江海。
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 
-google_analytics: ''
+google_analytics: 'a89426115w132653071p136636180'
 disqus: junjia
+mailchimp-list: 'https://gmail.us1.list-manage.com/subscribe/post?u=6280987e6139b54eccd331775&amp;id=87185722b1'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
